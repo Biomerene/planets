@@ -1,2 +1,4 @@
 *.dat
+!a.dat
+!expensive*.dat
 results/
